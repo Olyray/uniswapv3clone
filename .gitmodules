@@ -1,0 +1,9 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "uniswapv3-code/lib/forge-std"]
+	path = uniswapv3-code/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "uniswapv3-code/lib/solmate"]
+	path = uniswapv3-code/lib/solmate
+	url = https://github.com/rari-capital/solmate
